@@ -1,0 +1,11 @@
+[{
+		"backet":"s3/idol-test",
+		"s3folder":"/consul.conf",
+		"localfolder":"/etc/consul/"
+	},
+	{
+		"backet":"s3/idol-test2",
+		"s3folder":"/consul.conf2",
+		"localfolder":"/etc/consul2/"
+	}
+]

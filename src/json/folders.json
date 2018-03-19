@@ -1,0 +1,16 @@
+[{
+		"backet":"idol-test1",
+		"s3folder":"ansible.tar.gz",
+		"localfolder":"/tmp/ansible.tar.gz"
+	},
+	{
+		"backet":"idol-test1",
+		"s3folder":"/nginx/nginx/web/index.html",
+		"localfolder":"/etc/consul2/"
+	},
+	{
+		"backet":"idol-test1",
+		"s3folder":"/nginx/consul/consul.conf",
+		"localfolder":"/etc/consul/"
+	}
+]
